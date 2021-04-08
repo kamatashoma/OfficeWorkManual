@@ -19,7 +19,7 @@
 ### mainはプルしてから文章を加える
 
 ### subからのpushをpullできた
-###　今度はmainからpush 
+### 今度はmainからpush 
 
 
 ## 結構慣れてきたかも！
